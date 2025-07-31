@@ -1,0 +1,43 @@
+# requirements.txt
+
+# Core libraries
+torch==1.13.1
+numpy==1.23.5
+pandas==1.5.2
+
+# Torch-related libraries
+torchvision==0.14.0
+torchaudio==0.13.0
+pytorch-lightning==1.7.0
+
+# Data processing and visualization
+scipy==1.9.3
+matplotlib==3.6.0
+seaborn==0.11.2
+pillow==9.3.1
+
+# Utility libraries
+tqdm==4.64.0
+requests==2.27.1
+beautifulsoup4==4.13.1
+lxml==4.8.0
+
+# Testing and validation
+pytest==7.1.2
+mock==4.0.3
+unittest-mock==2.1.2
+
+# Logging and debugging
+logging==0.5
+loguru==0.6.6
+pdbpp==0.16.1
+
+# Type hints and annotations
+typing-extensions==4.1.2
+mypy==0.950
+
+# Integration and deployment
+docker==5.0.3
+gunicorn==20.1.0
+
+# Note: Remember to periodically update the package versions to stay compatible with the latest features and security updates.
