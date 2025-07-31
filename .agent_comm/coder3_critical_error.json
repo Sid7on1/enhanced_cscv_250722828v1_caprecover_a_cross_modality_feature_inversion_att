@@ -1,0 +1,8 @@
+{
+  "from": "coder3",
+  "to": "manager",
+  "type": "critical_error",
+  "message": "Failed to generate code for feature_extraction.py after 3 attempts",
+  "details": {},
+  "timestamp": "2025-07-31T21:10:20.409557"
+}
